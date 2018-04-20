@@ -1,12 +1,12 @@
 # Site settings
 title: The Bartenders Fight Club
 email: manicdesigner@gmail.com
-description: >
+description: 
   A mixture of odd stories, rants, thoughts, tales, and everything that comes from the spotless mind and revolves around the universe of mania.
 
-baseurl: "/the_hub/" # the subpath of your site, e.g. /blog/
-url: https://mikeyhavoc.github.io/the_hub # the base hostname & protocol for your site
-git_address: https://github.com/mikeyhavoc/the_hub
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: https://mikeyhavoc.github.io/ # the base hostname & protocol for your site
+git_address: https://github.com/mikeyhavoc/mikeyhavoc.github.io
 
 git_edit_address: https://github.com/mikeyhavoc/the_hub/gh-pages
 
