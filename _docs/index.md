@@ -13,5 +13,5 @@ I have revised what I am going to do with this somewhat.
 
 1. I am going to be working on the page layout heavily for the next few weeks. This was a template originally and I want it to be mine.
 
-1. I am going to release possibly a post, every week.. might be an update on what I am working on. Or a story post.
+1. Once that is done I will start posting in here, probably larger things. Things that do not fit in a post, or longer pieces, I will figure it out once I get the template complete. :)
 
