@@ -1,0 +1,36 @@
+{
+    "patientXStory": {
+            "characters": {
+                "main": {
+                    "chris conlley": {
+                    "firstName": "Christopher",
+                    "nickname": "Chris",
+                    "lastName": "Conlley",
+                    "age": 37,
+                    "sex": "male",
+                    "degree": "Phd",
+                    "teaching": "retired",
+                    "gradSchool": "unknown",
+                    "address": "forwarding",
+                    "phone": "prepaid",
+                    "email": "chrisConlley@gmail.com",
+                    "marital": "single",
+                        "characteristics": {
+                            "style": ["sly", "cunning","secretive"],
+                            "body-type": "medium build",
+                            "specialty": "analysis",
+                            "organization": "detail-oriented",
+                            "attitude": "humble",
+                            "socially": "social drinker",
+                            "problemSolving": "break down problems"
+                        }
+                },
+                "supporting": {
+                    
+                }// supporting
+                
+        
+            }//main
+        }//characters
+    }// patientXStory
+}
